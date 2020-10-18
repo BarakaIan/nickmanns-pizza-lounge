@@ -18,25 +18,36 @@
     </div>
     <div class="background">
         <form onsubmit="Ian()" action="http://eepurl.com/hfRPb1" class="container">
-            <h1>Submit</h1>
-            <div>
-                <label for="Crust"><b></b></label>
-                <input type="text"  placeholder="choose the crust" name="choose the Crust" required>
+            <div class="pizza">
+                <h2>choose the crust</h2>
+                <br>
+                <input type="radio" name="crust" value="crispy"> crispy<br>
+                <input type="radio" name="crust" value="stuffed"> large<br>
+                <input type="radio" name="crust" value="glutten"> glutten-free<br>
 
-                <select name="Size of Pizza" id=" Size of Pizza">
-                    <option value="small">small</option>
-                    <option value="medium">medium</option>
-                    <option value="large">large</option>
+                <h1>prices for the Crust</h1>
+                <input type="radio" name="prices" value="Kshs 600"> Kshs 600<br>
+                <input type="radio" name="prices" value="Kshs 800"> Kshs 800<br>
+                <input type="radio" name="prices" value="Kshs 1000"> Kshs 1000<br>
 
 
+                <h3>choose the toppings</h3>
+                <br>
+                <input type="radio" name="toppings" value="Broccoli"> Broccoli<br>
+                <input type="radio" name="toppings" value="Mushroom"> Mushroom<br>
+                <input type="radio" name="toppings" value="Potato"> Potato<br>
 
-                </select>
+                <h5>Prices for the Toppings</h5>
+                <input type="radio" name="prices" value="Kshs 600"> Kshs 800<br>
+                <input type="radio" name="prices" value="Kshs 800"> Kshs 950<br>
+                <input type="radio" name="prices" value="Kshs 1000"> Kshs 1099<br>
 
-                <label for="Size of Pizza"><b></b></label>
-                <input type="text"  placeholder="Size of Pizza" id="Size of Crust" name="Size of the Crust" required>
-
-                <label for="Toppings"><b></b></label>
-                <input type="text" placeholder="choose the toppings" name="Toppings" required>
+            </div>
+                <h4>Size of Pizza</h4>
+                <br>
+                <input type="radio" name="size" value="Small"> Small<br>
+                <input type="radio" name="size" value="Medium"> Medium<br>
+                <input type="radio" name="size" value="Large"> Large<br>
             </div>
             <br>
 
