@@ -24,6 +24,7 @@ its a web page thats created to solve a problem in the food business, an applica
 ######  Contacts
 Incase of any explanation, you are free to contact the 24/7 hotline number.
 -0719244916.
+-also try this number 0712345678 
 
 ###### Licence Information
 -MIT Licence.
