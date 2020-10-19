@@ -15,7 +15,7 @@ its a web page thats created to solve a problem in the food business, an applica
 -Clone this repository in to the folder using command line.
 -git clone this link(https://barakaian.github.io/nickmanns-pizza-lounge/).
 -Open it in an editor by use of the following,   "Atom, Vscode, SublimeText".
--contribute to the project.
+-contribute to the project of the project.
 
 
 ###### Known Bugs
